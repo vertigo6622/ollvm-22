@@ -30,4 +30,4 @@ cd ollvm-22 && mkdir build && cd build && cmake -DLLVM_DIR=<llvm location> ../ob
 
 ---
 
-<sup>this repo was created as part of the  `obsidian protector - x64 pe packer` project found [here](https://github.com/vertigo6622/obsidian-protector)</sup>
+<sup>this repo was created as part of the  `obsidian protector - universal pe packer` project found [here](https://github.com/vertigo6622/obsidian-protector)</sup>
